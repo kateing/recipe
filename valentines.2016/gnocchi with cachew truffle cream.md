@@ -1,6 +1,7 @@
 # Gnocchi with Cashew Truffle Cream Sauce
 
 - http://www.savorysimple.net/pasta-with-cashew-truffle-cream-sauce/
+- http://sheeats.ca/2013/08/crispy-baked-leeks-good-crispy-kristy-not/
 
 ## Ingredients
 - 1 pound pasta
@@ -16,8 +17,10 @@
 - 1⁄2 teaspoon pepper
 
 ### Veg
-- leeks, sliced
+- 1 tbsp vegitable oil
 - pea shoots
+- garlic scapes
+- leeks, sliced (just light green and white bits)
 
 ## Instructions
 - Drain the cashews, discarding the soaking water.
@@ -27,5 +30,13 @@
 - Prepare pasta according to package instructions.
 - Toss the sauce and pasta together. Garnish with basil before serving.
 
-## veg
-- saute leeks and pea shoots
+### Pea Shoots
+- heat oil, add garlic scapes (until fragrant)
+- add pea shoots and saute until wilted (2-3 minutes)
+- sprinkle with sea salt
+
+### Crispy Leeks
+- slice thinly
+- toss with a couple dashes of olive oil
+- Spread out on baking sheet and bake at 400 for 45-60 minutes (stir and check occasionally)
+
