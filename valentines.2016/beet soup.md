@@ -1,5 +1,8 @@
 # Roasted Beet Soup
 
+- http://mycaliforniaroots.com/vegan-roasted-beet-soup-recipe/
+- http://www.food.com/recipe/creamy-beet-soup-without-all-the-cream-300119
+
 ## Ingredients
 - 5 medium red beets, tops removed
 - 1 medium baking potato

@@ -1,12 +1,12 @@
 # Gnocchi with Cashew Truffle Cream Sauce
 
-- Prep time:  5 mins
-- Cook time:  10 mins
-- Serves: 4-6 servings
- 
-- Total time:  15 mins
+- http://www.savorysimple.net/pasta-with-cashew-truffle-cream-sauce/
 
 ## Ingredients
+- 1 pound pasta
+- fresh basil, sliced thin (garnish)
+
+### Sauce
 - 2 cups raw cashews, soaked overnight in cold water
 - 1 1⁄2 cups water
 - 1 teaspoon salt
@@ -14,9 +14,8 @@
 - 1 teaspoon dried thyme
 - 1 1⁄2 tablespoons white truffle oil
 - 1⁄2 teaspoon pepper
-- fresh basil, sliced thin
-- 1 pound pasta (I used fettuccine)
 
+### Veg
 - leeks, sliced
 - pea shoots
 
