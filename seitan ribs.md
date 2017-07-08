@@ -1,13 +1,3 @@
-Preparation time: 10 minute(s)
-
-Cooking time: 35 minute(s)
-
-Number of servings (yield): 4
-
-Nutrition Facts
-Nutrition (per serving): 196 calories, 39 calories from fat, 4.7g total fat, 0mg cholesterol, 186mg sodium, 83.2mg potassium, 12.8g carbohydrates, 1.3g fiber, <1g sugar, 27.7g protein, 5.2 points.
-
-Note: Nutritional info is calculated without barbecue sauce so that you can add the figures for the brand of barbecue sauce you use.
 
 ## Ingredients
 - 1 cup vital wheat gluten
@@ -48,3 +38,10 @@ Note: Nutritional info is calculated without barbecue sauce so that you can add 
 ### No Grill
 To make this without a grill, bake it for 25 minutes without barbecue sauce. Then brush the top with a generous coating of sauce, turn the whole thing over carefully in the pan, and brush the other side with sauce. Bake for another 10-20 minutes or until the sauce has thickened and caramelized slightly but not burned. Remove from oven, cut apart, and serve.
 
+### Simplified
+
+- 1c wheat gluten
+- whatever herbs you have on hand
+- 3/4c water
+- 1 tbsp soy sauce
+- big spoonful of peanut butter
