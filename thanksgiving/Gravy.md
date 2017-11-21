@@ -11,7 +11,7 @@
 
 ### Directions
 
-- Heat oil. Add onion and mushrooms and cook (about 5 min or until onion is translucent)
+- Heat oil. Add onion (and mushrooms if using) and cook until onion is translucent (~ 5 min)
 - Stir in herbs
 - Create a roux: sprinkle flour in and stir contil golden to brown (~ 5 min)
 - Gradually stir in warmed stock until desired thickness
