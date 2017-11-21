@@ -1,16 +1,15 @@
-## Mashed Potatoes
+# Mashed Potatoes
 
-http://allrecipes.com/recipe/suzys-mashed-red-potatoes/detail.aspx?event8=1&prop24=SR_Title&e11=mashed%20potatoes&e8=Quick%20Search&event10=1&e7=Home%20Page&scale=16&ismetric=0
+http://allrecipes.com/recipe/suzys-mashed-red-potatoes/
 
-### Ingredients
+## Ingredients
 
-- 4 pounds small red potatoes, quartered
-- 1 cup butter
-- 1 cup milk
-- 1/2 cup sour cream
-- salt and pepper to taste
+- 4 lb small red potatoes, quartered
+- 1 c butter
+- 1 c milk
+- 1/2 c sour cream
 
-### Instructions
+## Directions
 
 - Bring a large pot of lightly salted water to a boil. 
 - Add potatoes, and cook until tender but still firm, about 10 minutes. 

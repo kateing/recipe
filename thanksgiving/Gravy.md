@@ -9,10 +9,10 @@
 - roux (5tbsp olive oil & 5tbsp flour)
 - minced fresh herbs (sage, thyme)
 
-### Instructions
+### Directions
 
 - Heat oil. Add onion and mushrooms and cook (about 5 min or until onion is translucent)
 - Stir in herbs
-- Create a roux: sprinkle flour in and stir contil golden to brown
+- Create a roux: sprinkle flour in and stir contil golden to brown (~ 5 min)
 - Gradually stir in warmed stock until desired thickness
 - Serve immediately or cool, cover, and chill (reheat over low heat, stirring)
